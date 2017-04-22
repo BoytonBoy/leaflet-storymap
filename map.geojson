@@ -8,9 +8,9 @@
         "chapter": "Grindleford Station Cafe",
         "zoom": 15,
         "image": "http://www.freston.net/blog/zpix/20150604-holywells.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2008&m=11&d=01",
+        "source-credit": "http://freston.net/blog/index.php?y=2008&m=11&d=01",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2008&m=11&d=01"
+        "description": "http://freston.net/blog/index.php?y=2008&m=11&d=01"
       },
       "geometry": {
         "type": "Point",
@@ -27,9 +27,9 @@
         "chapter": "G T's Cafe Kitchen",
         "zoom": 15,
         "image": "http://www.freston.net/blog/zpix/20150529-thelodge.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=06&d=25",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=06&d=25",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=06&d=25"
+        "description": "http://freston.net/blog/index.php?y=2015&m=06&d=25"
       },
       "geometry": {
         "type": "Point",
@@ -46,9 +46,9 @@
         "chapter": "The Stables Cafe",
         "zoom": 15,
         "image": "http://www.freston.net/blog/zpix/20150515-granarysnape.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=06&d=04",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=06&d=04",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=06&d=04"
+        "description": "http://freston.net/blog/index.php?y=2015&m=06&d=04"
       },
       "geometry": {
         "type": "Point",
@@ -65,9 +65,9 @@
         "chapter": "Granary Tea Room",
         "zoom": 15,
         "image": "http://www.freston.net/blog/zpix/20131025-firestation.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=05&d=15",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=05&d=15",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=05&d=15"
+        "description": "http://freston.net/blog/index.php?y=2015&m=05&d=15"
       },
       "geometry": {
         "type": "Point",
@@ -84,9 +84,9 @@
         "chapter": "The Firestation",
         "zoom": 15,
         "image": "http://www.freston.net/blog/zpix/20130208-eastcoastdiner.jpg",
-        "source-citation": "http://www.freston.net/blog/index.php?y=2013&m=10&d=25",
+        "source-credit": "http://www.freston.net/blog/index.php?y=2013&m=10&d=25",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://www.freston.net/blog/index.php?y=2013&m=10&d=25"
+        "description": "http://www.freston.net/blog/index.php?y=2013&m=10&d=25"
       },
       "geometry": {
         "type": "Point",
@@ -103,9 +103,9 @@
         "chapter": "The Cooks Shed",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20160204-smokeyjoes.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2016&m=03&d=23",
+        "source-credit": "http://freston.net/blog/index.php?y=2016&m=03&d=23",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2016&m=03&d=23"
+        "description": "http://freston.net/blog/index.php?y=2016&m=03&d=23"
       },
       "geometry": {
         "type": "Point",
@@ -122,9 +122,9 @@
         "chapter": "Subway",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20160121-gomanila.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2016&m=03&d=03",
+        "source-credit": "http://freston.net/blog/index.php?y=2016&m=03&d=03",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2016&m=03&d=03"
+        "description": "http://freston.net/blog/index.php?y=2016&m=03&d=03"
       },
       "geometry": {
         "type": "Point",
@@ -141,9 +141,9 @@
         "chapter": "Smokey Joes Burger Deli Ipswich",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20160115-emmetts.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2016&m=02&d=04",
+        "source-credit": "http://freston.net/blog/index.php?y=2016&m=02&d=04",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2016&m=02&d=04"
+        "description": "http://freston.net/blog/index.php?y=2016&m=02&d=04"
       },
       "geometry": {
         "type": "Point",
@@ -160,9 +160,9 @@
         "chapter": "Go Manila",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20160108-seckfordspa.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2016&m=01&d=21",
+        "source-credit": "http://freston.net/blog/index.php?y=2016&m=01&d=21",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2016&m=01&d=21"
+        "description": "http://freston.net/blog/index.php?y=2016&m=01&d=21"
       },
       "geometry": {
         "type": "Point",
@@ -179,9 +179,9 @@
         "chapter": "Emmetts Store",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20151204-ashbocking.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2016&m=01&d=15",
+        "source-credit": "http://freston.net/blog/index.php?y=2016&m=01&d=15",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2016&m=01&d=15"
+        "description": "http://freston.net/blog/index.php?y=2016&m=01&d=15"
       },
       "geometry": {
         "type": "Point",
@@ -198,9 +198,9 @@
         "chapter": "Seckford Hall Hotel & Restaurant",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20151120-pizzaipaella.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2016&m=01&d=08",
+        "source-credit": "http://freston.net/blog/index.php?y=2016&m=01&d=08",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2016&m=01&d=08"
+        "description": "http://freston.net/blog/index.php?y=2016&m=01&d=08"
       },
       "geometry": {
         "type": "Point",
@@ -217,9 +217,9 @@
         "chapter": "Crockery barn Cafe",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20151113-doorsteps.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=12&d=04",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=12&d=04",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=12&d=04"
+        "description": "http://freston.net/blog/index.php?y=2015&m=12&d=04"
       },
       "geometry": {
         "type": "Point",
@@ -236,9 +236,9 @@
         "chapter": "Pizza I Paella",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20151106-221.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=11&d=20",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=11&d=20",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=11&d=20"
+        "description": "http://freston.net/blog/index.php?y=2015&m=11&d=20"
       },
       "geometry": {
         "type": "Point",
@@ -255,9 +255,9 @@
         "chapter": "Doorsteps",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20151016-sallyjanes.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=11&d=13",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=11&d=13",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=11&d=13"
+        "description": "http://freston.net/blog/index.php?y=2015&m=11&d=13"
       },
       "geometry": {
         "type": "Point",
@@ -274,9 +274,9 @@
         "chapter": "221B Bakers",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20151009-momentum.jpg",
-        "source-citation": "http://freston.net/blog/zpix/20151106-221.jpg",
+        "source-credit": "http://freston.net/blog/zpix/20151106-221.jpg",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/zpix/20151106-221.jpg"
+        "description": "http://freston.net/blog/zpix/20151106-221.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -293,9 +293,9 @@
         "chapter": "pie n mash",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150925-flyinggoose.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=10&d=16",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=10&d=16",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=10&d=16"
+        "description": "http://freston.net/blog/index.php?y=2015&m=10&d=16"
       },
       "geometry": {
         "type": "Point",
@@ -312,9 +312,9 @@
         "chapter": "Momentum",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150902-angel.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=10&d=09",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=10&d=09",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=10&d=09"
+        "description": "http://freston.net/blog/index.php?y=2015&m=10&d=09"
       },
       "geometry": {
         "type": "Point",
@@ -331,9 +331,9 @@
         "chapter": "The Flying Goose Cafe",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150826-wildstrawberry.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=09&d=25",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=09&d=25",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=09&d=25"
+        "description": "http://freston.net/blog/index.php?y=2015&m=09&d=25"
       },
       "geometry": {
         "type": "Point",
@@ -350,9 +350,9 @@
         "chapter": "Angel Inn Coffee House",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150821-teahut.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=09&d=02",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=09&d=02",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=09&d=02"
+        "description": "http://freston.net/blog/index.php?y=2015&m=09&d=02"
       },
       "geometry": {
         "type": "Point",
@@ -369,9 +369,9 @@
         "chapter": "Wild Strawberry Cafe",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150819-fishface.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=08&d=26",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=08&d=26",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=08&d=26"
+        "description": "http://freston.net/blog/index.php?y=2015&m=08&d=26"
       },
       "geometry": {
         "type": "Point",
@@ -388,9 +388,9 @@
         "chapter": "The Tea Hut",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150814-lilys.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=08&d=21",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=08&d=21",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=08&d=21"
+        "description": "http://freston.net/blog/index.php?y=2015&m=08&d=21"
       },
       "geometry": {
         "type": "Point",
@@ -407,9 +407,9 @@
         "chapter": "Fish Face",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150723-regatta.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=08&d=19",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=08&d=19",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=08&d=19"
+        "description": "http://freston.net/blog/index.php?y=2015&m=08&d=19"
       },
       "geometry": {
         "type": "Point",
@@ -426,9 +426,9 @@
         "chapter": "Darsham Serv Station & Lils Pantry",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150612-thedip.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=08&d=14",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=08&d=14",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=08&d=14"
+        "description": "http://freston.net/blog/index.php?y=2015&m=08&d=14"
       },
       "geometry": {
         "type": "Point",
@@ -445,9 +445,9 @@
         "chapter": "The Regatta Cafe",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150508-katiecustard.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=07&d=23",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=07&d=23",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=07&d=23"
+        "description": "http://freston.net/blog/index.php?y=2015&m=07&d=23"
       },
       "geometry": {
         "type": "Point",
@@ -464,9 +464,9 @@
         "chapter": "The Dip",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150501-peartree.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=06&d=12",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=06&d=12",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=06&d=12"
+        "description": "http://freston.net/blog/index.php?y=2015&m=06&d=12"
       },
       "geometry": {
         "type": "Point",
@@ -483,9 +483,9 @@
         "chapter": "Katiecustard",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150424-walton.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=05&d=08",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=05&d=08",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=05&d=08"
+        "description": "http://freston.net/blog/index.php?y=2015&m=05&d=08"
       },
       "geometry": {
         "type": "Point",
@@ -502,9 +502,9 @@
         "chapter": "Pear Tree Cafe",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150417-giraffe.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=05&d=01",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=05&d=01",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=05&d=01"
+        "description": "http://freston.net/blog/index.php?y=2015&m=05&d=01"
       },
       "geometry": {
         "type": "Point",
@@ -521,9 +521,9 @@
         "chapter": "Walton Coffee House",
         "zoom": 15,
         "image": "http://freston.net/blog/zpix/20150409-saxwaitrose.jpg",
-        "source-citation": "http://freston.net/blog/index.php?y=2015&m=04&d=24",
+        "source-credit": "http://freston.net/blog/index.php?y=2015&m=04&d=24",
         "source-link": "Click here for Freston.net review",
-        "desc": "http://freston.net/blog/index.php?y=2015&m=04&d=24"
+        "description": "http://freston.net/blog/index.php?y=2015&m=04&d=24"
       },
       "geometry": {
         "type": "Point",
